@@ -8,14 +8,12 @@ Information contained in the data set is as follows:
 - **Lon:** The longitude of the pickup location.
 - **Base:** The associated TLC base company code of the pickup.
 
-### **AAI 530 Final Project EDA.ipynb**
-File contains EDA on one month worth of pickups
 
-### **AAI530_Final.ipynb**
-File contains preliminary EDA and the code for K-means CLustering and LSTM 
+## Repository Directory 
+- AAI 530 Final Project EDA.ipynb-File contains EDA on one month worth of pickups
 
-### **Uber Data APR-JUNE.zip**
-A compressed CSV containing the Uber ride information spanning April -  June 2014. In order to speed up the upload process we split the data set into two seperate files.
+- AI530_Final.ipynb - File contains preliminary EDA and the code for K-means CLustering and LSTM 
 
-### **Uber Data JUL-SEP.zip**
-A compressed CSV containing the Uber ride information spanning July -  September 2014.
+- Uber Data APR-JUNE.zip - A compressed CSV containing the Uber ride information spanning April -  June 2014. In order to speed up the upload process we split the data set into two seperate files.
+
+- Uber Data JUL-SEP.zip - A compressed CSV containing the Uber ride information spanning July -  September 2014.
